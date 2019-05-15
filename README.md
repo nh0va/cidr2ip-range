@@ -1,4 +1,4 @@
-##Expand a CIDR notation to IP range
+## Expand a CIDR notation to IP range
 
 Command in a bash shell example:
 ```
